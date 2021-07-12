@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1622611816 source:d:\programspractice\newseb3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+
+1626068562 source:d:\programspractice\newseb3\52010043.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<conio.h>
+
